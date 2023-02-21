@@ -1,5 +1,5 @@
 {
-  "name": "pchaoBlog",
+  "name": "BlankBlog",
   "version": "1.0.0",
   "author": "reco_luan",
   "scripts": {
@@ -11,7 +11,7 @@
     "vuepress": "^1.3.1",
     "vuepress-theme-reco": "1.3.2"
   },
-  "description": "pchao",
+  "description": "Blank",
   "dependencies": {
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
     "jquery": "^3.5.0",
